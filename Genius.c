@@ -75,6 +75,7 @@ int comparaFila(Fila *f){
       aux = aux -> proximo;
     }
   }
+  free(aux);
   return 1;
 }
 
