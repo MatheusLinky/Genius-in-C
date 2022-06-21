@@ -142,11 +142,3 @@ int main(){
   }
   
 } 
-//quer ou n comecar de novo
-// se sim main();
-
-
-// Checar os numeros (conta pontuação) 1. Caso falhe printa ponto e pergunta se quer jogar dnv
-// add;
-// }
-// void verificaPar(TLista p1, TLista p2)
